@@ -1,0 +1,20 @@
+Numerical Differentiation Analysis
+Function: f(x) = 2x^2
+Enter evaluation point x: 4
+Enter step size h: 0.2
+
+1st Order Derivative Table
+METHOD               | RESULT       | ERROR
+Forward Difference   | 16.400       | 0.400
+Backward Difference  | 15.600       | -0.400
+Central Difference   | 16.000       | 0.000
+Exact Answer         | 16.000       | 0.000
+
+2nd Order Derivative Table
+METHOD               | RESULT       | ERROR
+Forward Difference   | 4.000        | 0.000
+Backward Difference  | 4.000        | 0.000
+Central Difference   | 4.000        | 0.000
+Exact Answer         | 4.000        | 0.000
+
+Generating Error Analysis Plot
